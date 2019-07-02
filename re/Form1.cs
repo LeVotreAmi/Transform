@@ -96,7 +96,7 @@ namespace re
                 Excel.XlSearchOrder.xlByColumns, Excel.XlSearchDirection.xlPrevious,
                 false, System.Reflection.Missing.Value, System.Reflection.Missing.Value).Column;
 
-            //Св-ва програссбара и лейбла
+            //Св-ва прогрессбара и лейбла
             progressBar1.Visible = true;
             label1.Visible = false;
             label1.Text = "";
