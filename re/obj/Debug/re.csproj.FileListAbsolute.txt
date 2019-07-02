@@ -1,0 +1,11 @@
+C:\Users\Levotreami\source\repos\re\re\bin\Debug\re.exe.config
+C:\Users\Levotreami\source\repos\re\re\bin\Debug\re.exe
+C:\Users\Levotreami\source\repos\re\re\bin\Debug\re.pdb
+C:\Users\Levotreami\source\repos\re\re\obj\Debug\re.csprojAssemblyReference.cache
+C:\Users\Levotreami\source\repos\re\re\obj\Debug\re.Form1.resources
+C:\Users\Levotreami\source\repos\re\re\obj\Debug\re.Properties.Resources.resources
+C:\Users\Levotreami\source\repos\re\re\obj\Debug\re.csproj.GenerateResource.cache
+C:\Users\Levotreami\source\repos\re\re\obj\Debug\re.csproj.CoreCompileInputs.cache
+C:\Users\Levotreami\source\repos\re\re\obj\Debug\re.exe
+C:\Users\Levotreami\source\repos\re\re\obj\Debug\re.pdb
+C:\Users\Levotreami\source\repos\re\re\obj\Debug\re.csproj.ResolveComReference.cache
